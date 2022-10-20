@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Amazon Stock Price Forecasting](https://github.com/fola789/Amazon-Stock-Price-Forecasting-Using-LSTM-and-GAN/blob/master/AmazonStockPriceForecasting.ipynb)
 
-- 🌱 I’m currently learning **Data warehousing concepts, DevOps and CI/CD pipelines (Jenkins, Azure DevOps)**
+- 🌱 I’m currently learning **Data warehousing concepts, DevOps and CI/CD pipelines (Azure Pieplines,AWS CodePipelines, Azure DevOps, Atlassian Bamboo)**
 
 - 👨‍💻 All of my projects are available at [Fola repositories](https://github.com/fola789?tab=repositories)
 
@@ -21,7 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fola-ogundero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fola-ogundero" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fola-ogundero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fola-ogundero" height="30" width="40" /></a> 
+<a href="https://open.spotify.com/user/fogundero?si=148c2987f4f041e1" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/400px-Spotify_App_Logo.svg.png?20210620075506" alt="spotify" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
