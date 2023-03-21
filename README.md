@@ -1,13 +1,11 @@
-<p align="center"> <img src="20220526_200944 - Copy.jpg" alt="drawing" height="481"/></p>
 <h1 align="center">Hi 👋, I'm Fola (폴라)</h1>
 <h3 align="center">An aspiring machine learning engineer and data scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/640/0*YyL79g0pgvpMnzta">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fola789&label=Profile%20views&color=0e75b6&style=flat" alt="fola789" /> </p>
 
 - 🔭 I’m currently working on [Amazon Stock Price Forecasting](https://github.com/fola789/Amazon-Stock-Price-Forecasting-Using-LSTM-and-GAN/blob/master/AmazonStockPriceForecasting.ipynb)
 
-- 🌱 I’m currently learning **Data warehousing concepts, DevOps and CI/CD pipelines (Azure Pieplines,AWS CodePipelines, Azure DevOps, Atlassian Bamboo)**
+- 🌱 I’m currently learning **Data warehousing concepts, DevOps and CI/CD pipelines (Azure Pieplines, Azure DevOps, Atlassian Bamboo)**
 
 - 👨‍💻 All of my projects are available at [Fola repositories](https://github.com/fola789?tab=repositories)
 
