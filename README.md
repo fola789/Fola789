@@ -1,4 +1,4 @@
-<p align="center"> <img src="20220526_200944 - Copy.jpg" alt="drawing" height="963"/></p>
+<p align="center"> <img src="20220526_200944 - Copy.jpg" alt="drawing" height="481"/></p>
 <h1 align="center">Hi 👋, I'm Fola (폴라)</h1>
 <h3 align="center">An aspiring machine learning engineer and data scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/640/0*YyL79g0pgvpMnzta">
